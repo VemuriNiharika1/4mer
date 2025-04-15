@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is C2 file in MAIN BRANCH
+=======
+This is a file of c2.txt in feature branch....
+>>>>>>> fb
